@@ -17,7 +17,7 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true,
-       "minVulnerabilityScore": 1.5,
+       "minVulnerabilityScore": 2,
         "maxVulnerabilityScore": 10
     }
   }
